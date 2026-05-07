@@ -1,0 +1,6 @@
+.env
+voting_demo.sqlite3
+__pycache__/
+pages/__pycache__/
+*.pyc
+.venv/
